@@ -1,4 +1,3 @@
-# Team-Envision-Project
 # 🩺 Chest X-Ray Classification (Normal | Pneumonia | Tuberculosis)
 
 ## 📌 Project Overview  
